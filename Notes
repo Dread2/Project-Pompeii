@@ -7,3 +7,5 @@ LGA1151 Socket (Coffee Lake Standard)
 - Kapton tape or anything with thermal insulation properties should be used to cover the parts 
   noted above to prevent future damage. Heatshield should be removed before BGA rework is done. 
 - Board warmer is helpful but not needed. 
+- BGA solder balls with either be Tin or Lead. Flux, Solder paste, and Hot air may be needed to 
+ reball the socket easier. 
