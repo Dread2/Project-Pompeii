@@ -1,0 +1,5 @@
+LGA1151 Socket (Coffee Lake Standard)
+- Socket must have a BGA.
+- Heated to 200-300C
+- Whole socket must be replaced as pins for DDR, VCCSA, PEG_R, 
+- and VCCGT are damaged
