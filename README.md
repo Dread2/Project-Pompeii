@@ -1,4 +1,4 @@
-****ASROCK B365M IB-R Repair** <br />
+****Pomya TGH310 Repair** <br />
 LGA Socket Replacement <br />
 Code Name: Coffee Lake (Socket 1151)
 
